@@ -6,7 +6,7 @@
 
 👩‍💻 I'm currently working on: personal projects
 
-🧠 I'm currently learning: ReactJS
+🧠 I'm currently learning: ReactJS, Tailwind, GraphQL
 
 💬 Ask me about: Typescript, Javascript, Angular, Storybook
 
